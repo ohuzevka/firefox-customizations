@@ -10,6 +10,7 @@ How it looks like on Windows 10:
 - Undo close tab
 - I still don't care about cookies
 - Video Speed Controller
+- Bypass Google Redirect Notice
 
 # about:config mods
 Type `about:congig` to address bar.
