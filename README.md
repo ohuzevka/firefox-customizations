@@ -6,11 +6,14 @@ How it looks like on Windows 10:
 - Untick `Show sidebar`
 
 # Extensions
-- Sidebery
-- Undo close tab
-- I still don't care about cookies
-- Video Speed Controller
-- Bypass Google Redirect Notice
+- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
+- [Undo close tab](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/)
+- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
+- [Video Speed Controller](https://addons.mozilla.org/en-US/firefox/addon/videospeed/)
+- [Bypass Google Redirect Notice](https://addons.mozilla.org/en-US/firefox/addon/bypass-google-redirect-notice/)
+
+# Themes
+- [Simple style fox 2](https://addons.mozilla.org/en-US/firefox/addon/simple-style-fox-2/)
 
 # about:config mods
 Type `about:congig` to address bar.

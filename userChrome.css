@@ -7,6 +7,15 @@
   display: none !important;
 }
 
+/* Remove sidebar padding and border */
+#sidebar-box,
+#sidebar {
+  /* margin: 0 !important; */
+  padding: 0 !important;
+  border-radius: 0 !important;
+  border: none !important;
+}
+
 /* Reduce minimum width of the sidebar */
 #sidebar-box {
   min-width: 70px !important;
